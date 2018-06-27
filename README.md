@@ -41,7 +41,7 @@ https://developer.twitter.com/en/docs/basics/authentication/api-reference/reques
 A URL scheme for your iOS app is required. In Project Settings → Info: scroll down to **URL Types** and add an entry with `+`
 
 - **Identifier**: your-app-bundle-id, i.e. `com.dkhamsing.TwitterAuthDemo`
-- **URL Schemes**: url-scheme, i.e. `twitterkit-WELgQwytMTwEzuJNXROK://` (if there is only one scheme, this value is read and set as the URL scheme for `TwitterSafariViewControllerAuth`)
+- **URL Schemes**: url-scheme, i.e. `twitterkit-WELgQwytMTwEzuJNXROK` (if there is only one scheme, this value is read and set as the URL scheme for `TwitterSafariViewControllerAuth`)
 
 ![](Assets/xcode.png)
 
