@@ -24,10 +24,10 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>com.dkhamsing.TwitterAuthDemo</string>
+			<string>com.bitcows.covershot</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>TwitterAuthDemo</string>
+				<string>twitterkit-WELgQwTwEzuJNXROK</string>
 			</array>
 		</dict>
 	</array>

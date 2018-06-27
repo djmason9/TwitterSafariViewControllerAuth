@@ -10,8 +10,8 @@
 
 #import "TwitterSafariViewControllerAuth.h"
 
-static NSString *const kConsumerKey    = @"pxVUnHa52dzSXmkgZZ9kjPCfL";
-static NSString *const kConsumerSecret = @"nhOETEJHhtyhIV0mRQ9qs5esZIBceoAOp1K3kbaqCJecCHfp8v";
+static NSString *const kConsumerKey    = @"[YOUR KEY]";
+static NSString *const kConsumerSecret = @"[YOUR SECRET]";
 
 @interface ViewController ()
 

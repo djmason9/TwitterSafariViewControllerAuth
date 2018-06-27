@@ -34,12 +34,14 @@ A [Twitter app](https://apps.twitter.com/) with a valid `Callback URL` is requir
 
 ![](Assets/twitter-app.png)
 
+**NOTE: Starting June 12th, 2018, we will require that any callback URL used with this endpoint will have to be whitelisted within the app settings on apps.twitter.com According to twitter API docs**
+https://developer.twitter.com/en/docs/basics/authentication/api-reference/request_token.html
 ### Xcode
 
 A URL scheme for your iOS app is required. In Project Settings → Info: scroll down to **URL Types** and add an entry with `+`
 
 - **Identifier**: your-app-bundle-id, i.e. `com.dkhamsing.TwitterAuthDemo`
-- **URL Schemes**: url-scheme, i.e. `TwitterAuthDemo` (if there is only one scheme, this value is read and set as the URL scheme for `TwitterSafariViewControllerAuth`)
+- **URL Schemes**: url-scheme, i.e. `twitterkit-WELgQw\ytMTwEzuJNXROK://` (if there is only one scheme, this value is read and set as the URL scheme for `TwitterSafariViewControllerAuth`)
 
 ![](Assets/xcode.png)
 
