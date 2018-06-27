@@ -32,7 +32,7 @@ Add the `TwitterSafariViewControllerAuth/` folder to your project.
 
 A [Twitter app](https://apps.twitter.com/) with a valid `Callback URL` is required: the value entered there is not used but if the field is empty, redirects are disallowed.
 
-![](Assets/twitter-app.png)
+![](Assets/twitter-app-screen.png)
 
 **NOTE: Starting June 12th, 2018, we will require that any callback URL used with this endpoint will have to be whitelisted within the app settings on apps.twitter.com According to twitter API docs**
 https://developer.twitter.com/en/docs/basics/authentication/api-reference/request_token.html
